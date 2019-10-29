@@ -5,7 +5,7 @@ Pre- requisite : Java version 8 or higher must be installed
 1. Click on the following link 
    (https://jenkins.io/download/)
     and Download Jenkins 2.19.0 for Windows
-    ![](./img/jenkinswindows.png)
+    ![](./img/jenkinswindows.PNG)
 
     unzip jenkins-2.190.1.zip
 
