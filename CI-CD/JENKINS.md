@@ -12,7 +12,7 @@ Pre- requisite : Java version 8 or higher must be installed
 2. Run the installer
    ![](./img/runinstaller.png)
 
-Choose the destination folder for Jenkins
+3. Choose the destination folder for Jenkins
    ![](./img/destinationfolder.png)
 
 4. Click Install
