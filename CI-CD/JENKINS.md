@@ -10,8 +10,8 @@ Pre- requisite : Java version 8 or higher must be installed
     unzip jenkins-2.190.1.zip
 
 2. Run the installer
-
    ![](./img/runinstaller.png)
+   
 
 3. Choose the destination folder for Jenkins
    ![](./img/destinationfolder.png)
