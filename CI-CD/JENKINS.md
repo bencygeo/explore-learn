@@ -57,6 +57,12 @@ Pre- requisite : Java version 8 or higher must be installed
   16. Give Description. In Advanced project options
       Definition : Pipeline from SCM
       SCM : Git
+      Repository URL : 
+      Navigate to your respository in github
+      Click on Clone or download
+      Copy the URL and paste in Repository URL field
+       ![](./img/RepoURL.png)
+       
       Script path : Jenkinsfile
       Click Save.
       ![](./img/scm.png)
@@ -84,7 +90,12 @@ Pre- requisite : Java version 8 or higher must be installed
    18. Click on console output to view the output
       ![](./img/consoleoutput.png)
     
-    
+    Note :
+    If there is issue while cloning git on windows then see the below workaround.
+    (https://stackoverflow.com/questions/37155321/error-error-cloning-remote-repo-origin)
+
+
+ 
    
 
 
